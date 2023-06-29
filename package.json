@@ -1,6 +1,6 @@
 {
     "name": "docusaurus-plugin-less-hash",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "author": "akong",
     "description": "Provides support for Less to Docusaurus v2.",
     "main": "index.js",
