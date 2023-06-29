@@ -1,7 +1,7 @@
 module.exports = function (context, options) {
   const { id, ...pluginOptions } = options;
   return {
-    name: "my-less-loader",
+    name: "docusaurus-plugin-less-hash",
     configureWebpack(config, isServer, utils) {
       const { getStyleLoaders } = utils;
       const isProd = process.env.NODE_ENV === "production";

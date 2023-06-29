@@ -1,7 +1,7 @@
 <h1 align="center">docusaurus-plugin-less</h1>
 <p align="center">Provides support for Less to Docusaurus v2</p>
 <p align="center">
-    <a href="https://github.com/nonoroazoro/docusaurus-plugin-less/blob/master/LICENSE">
+    <a href="https://github.com/noobakong/docusaurus-plugin-less/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/nonoroazoro/docusaurus-plugin-less.svg" alt="GitHub License" />
     </a>
 </p>
