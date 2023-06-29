@@ -1,18 +1,18 @@
 {
     "name": "docusaurus-plugin-less-hash",
     "version": "0.0.1",
-    "author": "nonoroazoro",
+    "author": "akong",
     "description": "Provides support for Less to Docusaurus v2.",
     "main": "index.js",
     "repository": {
         "type": "git",
-        "url": "https://github.com/nonoroazoro/docusaurus-plugin-less.git"
+        "url": "https://github.com/noobakong/docusaurus-plugin-less.git"
     },
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/nonoroazoro/docusaurus-plugin-less/issues"
+        "url": "https://github.com/noobakong/docusaurus-plugin-less/issues"
     },
-    "homepage": "https://github.com/nonoroazoro/docusaurus-plugin-less#readme",
+    "homepage": "https://github.com/noobakong/docusaurus-plugin-less#readme",
     "keywords": [
         "docusaurus",
         "docusaurus-plugin",
