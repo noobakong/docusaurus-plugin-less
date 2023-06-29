@@ -8,16 +8,16 @@
 
 ## Getting Started
 
-1. Install `docusaurus-plugin-less`:
+1. Install `docusaurus-plugin-less-hash`:
 
     ```console
-    npm i -S docusaurus-plugin-less
+    npm i -S docusaurus-plugin-less-hash
     ```
 
     or
 
     ```console
-    yarn add docusaurus-plugin-less
+    yarn add docusaurus-plugin-less-hash
     ```
 
 2. Add the plugin to your `docusaurus.config.js`:
@@ -25,7 +25,7 @@
     ```diff
     module.exports = {
     // ...
-    + plugins: ["docusaurus-plugin-less"],
+    + plugins: ["docusaurus-plugin-less-hash"],
     // ...
     }
     ```
@@ -35,7 +35,7 @@
     ```diff
     module.exports = {
     // ...
-    + plugins: ["docusaurus-plugin-less", { /* options */ sourceMap: false }],
+    + plugins: ["docusaurus-plugin-less-hash", { /* options */ sourceMap: false }],
     // ...
     }
     ```
